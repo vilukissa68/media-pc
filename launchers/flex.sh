@@ -1,1 +1,1 @@
-flex-launcher -c flex.ini
+flex-launcher -c ~/media-pc/launchers/flex.ini
